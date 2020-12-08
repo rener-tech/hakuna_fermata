@@ -1,3 +1,7 @@
+# Irene Lunt
+# CSCI 3725
+# 8 December 2020
+
 # backdrop chord progression throughout entire piece
 live_loop :calm_sun do #
   2.times do
