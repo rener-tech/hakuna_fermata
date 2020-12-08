@@ -1,5 +1,5 @@
 # Title: Sunlight on Face 
-# Composed By: Irene Lunt
+### Composed By: Irene Lunt
 
 My piece was build on a recurring chord progression that I layered over by live coding. I composed various functions with different beats and patterns and used live coding to layer these over my chord progression. When I really wanted to build the sound, I utilized threads. I had a note on my computer that served as "sheet music" and looked like this: 
 1. nothing  
